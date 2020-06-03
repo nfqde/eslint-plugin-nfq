@@ -12,6 +12,11 @@
   "scripts": {
     "test": "mocha tests --recursive"
   },
+  "standard-version": {
+    "scripts": {
+      "prebump": "nfqBump"
+    }
+  },
   "dependencies": {
     "natural-compare": "^1.4.0",
     "requireindex": "~1.1.0"
