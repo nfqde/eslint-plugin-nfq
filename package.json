@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "natural-compare": "^1.4.0",
-    "requireindex": "~1.1.0"
+    "requireindex": "~1.2.0"
   },
   "devDependencies": {
     "eslint": "~3.9.1",
