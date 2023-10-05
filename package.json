@@ -1,6 +1,6 @@
 {
   "name": "@nfq/eslint-plugin",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "description": "NFQ eslint rules",
   "keywords": [
     "eslint",
