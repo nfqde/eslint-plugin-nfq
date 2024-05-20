@@ -1,6 +1,6 @@
 {
   "name": "@nfq/eslint-plugin",
-  "version": "0.7.2",
+  "version": "0.8.0",
   "description": "NFQ eslint rules",
   "keywords": [
     "eslint",
@@ -10,6 +10,7 @@
   "author": "Christoph Kruppe",
   "main": "lib/index.js",
   "scripts": {
+    "deploy": "npx standard-version && git push --follow-tags origin master && npm publish",
     "test": "mocha tests --recursive"
   },
   "standard-version": {

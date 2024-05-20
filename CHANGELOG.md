@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.8.0](https://github.com/nfqde/eslint-plugin-nfq/compare/v0.7.2...v0.8.0) (2024-05-20)
+
+
+### Features
+
+* **no-magic-numbers:** Update no magic numbers rule ([#8](https://github.com/nfqde/eslint-plugin-nfq/issues/8)) ([c5ee696](https://github.com/nfqde/eslint-plugin-nfq/commit/c5ee696fb176f98c5e33ac3e4cdb72e36af0b0f2))
+
 ### [0.7.2](https://github.com/nfqde/eslint-plugin-nfq/compare/v0.7.1...v0.7.2) (2023-12-17)
 
 
