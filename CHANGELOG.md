@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.8.1](https://github.com/nfqde/eslint-plugin-nfq/compare/v0.8.0...v0.8.1) (2024-05-20)
+
+
+### Bug Fixes
+
+* **Imports:** fix import path ([#9](https://github.com/nfqde/eslint-plugin-nfq/issues/9)) ([1d4fede](https://github.com/nfqde/eslint-plugin-nfq/commit/1d4fede20854390e42507d6c7db1b422fed85b83))
+
 ## [0.8.0](https://github.com/nfqde/eslint-plugin-nfq/compare/v0.7.2...v0.8.0) (2024-05-20)
 
 
